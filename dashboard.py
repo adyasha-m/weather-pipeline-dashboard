@@ -13,7 +13,7 @@ DB_PATH = "weather.duckdb"
 CITIES = ["Bhubaneswar", "Delhi", "Mumbai", "Bengaluru"]
 
 st.set_page_config(
-    page_title="Weather Intelligence",
+    page_title="Weather Dashboard",
     page_icon="◌",
     layout="wide",
     initial_sidebar_state="expanded",
