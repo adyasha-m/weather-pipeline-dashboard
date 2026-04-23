@@ -103,7 +103,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.title("Weather Intelligence")
+st.title("Weather Dashboard")
 st.caption("Minimal, refined weather analytics.")
 
 
