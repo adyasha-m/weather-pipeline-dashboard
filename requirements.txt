@@ -1,0 +1,11 @@
+duckdb @ file:///C:/Users/task_176700171222096/croot/python-duckdb-split_1767001836669/work
+gitdb @ file:///C:/b/abs_1bkmriimss/croot/gitdb_1753362133190/work
+GitPython @ file:///C:/Users/task_176787402835022/croot/gitpython_1767874169598/work
+matplotlib==3.9.0
+numpy==1.26.4
+pandas==2.2.2
+plotly @ file:///C:/Users/task_177375508725091/croot/plotly_1773755192143/work
+requests @ file:///C:/Users/task_177506612367653/croot/requests_1775066193776/work
+scikit-learn==1.5.2
+scipy==1.14.1
+streamlit @ file:///C:/Users/task_177273462265155/croot/streamlit-split_1772735031855/work/streamlit
